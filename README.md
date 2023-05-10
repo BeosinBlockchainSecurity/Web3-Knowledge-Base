@@ -7,3 +7,5 @@
 - How to Avoid Telegram Scams.pdf
 - Security Audit Series What Is a Precompiled Contract Vulnerability.pdf
 - Things to Know About the Ethereum Shanghai Upgrade.pdf
+- A crypto influencer is under a sweeper bot attack. How can Beosin help recover his funds.pdf
+- An In-depth Analysis of zk-SNARK Input Aliasing Vulnerability.pdf
