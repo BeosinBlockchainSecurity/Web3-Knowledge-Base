@@ -15,3 +15,4 @@
 - Beosin launched the Move Lint static detection tool to improve the security of Sui smart contract development through best practices.pdf
 - BRC20, a new dark horse in the digital currency market or a flash in the pan What are its risks.pdf
 - Learn about Hong Kong’s VASP licence application details and get ready for the new regime.pdf
+- What is Stacks and what challenges may this BTC Layer2 Network face.pdf
