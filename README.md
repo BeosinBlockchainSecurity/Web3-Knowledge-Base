@@ -18,3 +18,6 @@
 - What is Stacks and what challenges may this BTC Layer2 Network face.pdf
 - Telegram bots, a powerful tool for degens or another story to be shilled.pdf
 - Exploring Tornado Cash In-Depth to Reveal Malleability Attacks in ZKP Projects.pdf
+- What is the Difficult-to-Guard “Read-Only Reentrancy Attack”.pdf
+- Analysis of Centralized Stablecoins’ Smart Contracts.pdf
+- Friend.tech exposes 100,000+ addresses related information, how to protect user privacy of social Dapps.pdf
